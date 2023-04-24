@@ -1,4 +1,4 @@
-# lab-02
-for lab 02 at ksu univirsity
+# lab-04
+for lab 04 at ksu univirsity
 
 ##project notese
